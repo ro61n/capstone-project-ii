@@ -1,3 +1,3 @@
-#Capstone Project II
+# Capstone Project II
 
 A PyGame project.
