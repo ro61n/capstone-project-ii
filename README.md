@@ -1,4 +1,4 @@
-#Capstone Project II
+# Capstone Project II
 
 A PyGame (Python) project where the user has to avoid the 3 enemy objects and reach the prize object to win. The user can navigate in any direction using the arrow keys but cannot move beyond the frame. The enemy objects can also not move beyond the frame and bounce off when they reach the frame. As they bounce off their speed increases to make the game challenging and entertaining.
 
